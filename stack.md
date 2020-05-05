@@ -1,18 +1,18 @@
 # usefulLinksStack
-![](./img/html.png)\
+![](./img/html.png)__
 
-TAGS: https://www.w3schools.com/tags/default.asp\
-SEMANTICS: https://www.w3schools.com/html/html5_semantic_elements.asp\
-BOOTSTRAP: https://getbootstrap.com/\
-
-
-
-![](./img/css.png)\
+TAGS: https://www.w3schools.com/tags/default.asp__
+SEMANTICS: https://www.w3schools.com/html/html5_semantic_elements.asp__
+BOOTSTRAP: https://getbootstrap.com/__
 
 
 
-![](./img/js.png)\
+![](./img/css.png)__
 
 
 
-![](./img/php.png)\
+![](./img/js.png)__
+
+
+
+![](./img/php.png)__
