@@ -1,9 +1,9 @@
 # usefulLinksStack
 ![](./img/html.png)__
 
-TAGS: https://www.w3schools.com/tags/default.asp __
-SEMANTICS: https://www.w3schools.com/html/html5_semantic_elements.asp __
-BOOTSTRAP: https://getbootstrap.com/ __
+- [TAGS](https://www.w3schools.com/tags/default.asp)
+- [SEMANTICS](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- [BOOTSTRAP](https://getbootstrap.com/)
 
 
 
