@@ -9,17 +9,17 @@
 
 ![](./img/css.png)
 
--[FONTS](https://fontawesome.com/)
--[FONTS](https://www.fontspace.com/)
--[IMG](https://pixabay.com/)
--[IMG](https://www.pexels.com/)
--[ICO/SVG img](https://www.flaticon.com/)
+- [FONTS](https://fontawesome.com/)
+- [FONTS](https://www.fontspace.com/)
+- [IMG](https://pixabay.com/)
+- [IMG](https://www.pexels.com/)
+- [ICO/SVG img](https://www.flaticon.com/)
 
 ![](./img/js.png)
 
--[W3 library](https://www.w3schools.com/js/)
--[MOZILLA library](https://developer.mozilla.org/it/docs/Web/JavaScript)
--[NPM PACKAGES](https://www.npmjs.com/)
--[LIBRARY/FRAMEWORKS](https://www.javascripting.com/)
+- [W3 library](https://www.w3schools.com/js/)
+- [MOZILLA library](https://developer.mozilla.org/it/docs/Web/JavaScript)
+- [NPM PACKAGES](https://www.npmjs.com/)
+- [LIBRARY/FRAMEWORKS](https://www.javascripting.com/)
 
 ![](./img/php.png)
