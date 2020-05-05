@@ -9,11 +9,11 @@
 
 ![](./img/css.png)
 
-- [FONTS](https://fontawesome.com/)
-- [FONTS](https://www.fontspace.com/)
-- [IMG](https://pixabay.com/)
-- [IMG](https://www.pexels.com/)
-- [ICO/SVG img](https://www.flaticon.com/)
+- [FONTS Fontawesome](https://fontawesome.com/)
+- [FONTS Fontspace](https://www.fontspace.com/)
+- [IMG Pixabay](https://pixabay.com/)
+- [IMG Pexels](https://www.pexels.com/)
+- [ICO/SVG Flaticon](https://www.flaticon.com/)
 
 ![](./img/js.png)
 
