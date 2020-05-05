@@ -1,5 +1,5 @@
 # usefulLinksStack
-![](./img/html.png)__
+-![](./img/html.png)
 
 - [TAGS](https://www.w3schools.com/tags/default.asp)
 - [SEMANTICS](https://www.w3schools.com/html/html5_semantic_elements.asp)
@@ -7,12 +7,11 @@
 
 
 
-![](./img/css.png)__
+-![](./img/css.png)
+
+
+-![](./img/js.png)
 
 
 
-![](./img/js.png)__
-
-
-
-![](./img/php.png)__
+-![](./img/php.png)
