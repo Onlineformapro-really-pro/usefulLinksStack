@@ -14,8 +14,8 @@
 - [IMG Pixabay](https://pixabay.com/)
 - [IMG Pexels](https://www.pexels.com/)
 - [ICO/SVG Flaticon](https://www.flaticon.com/)
-- [PNG Cleanpng](https://www.cleanpng.com/
-  )
+- [PNG Cleanpng](https://www.cleanpng.com/)
+
 ![](./img/js.png)
 
 - [W3 library](https://www.w3schools.com/js/)
