@@ -15,6 +15,7 @@
 - [IMG Pexels](https://www.pexels.com/)
 - [ICO/SVG Flaticon](https://www.flaticon.com/)
 - [PNG Cleanpng](https://www.cleanpng.com/)
+- [cssgradient](https://cssgradient.io/)
 
 ![](./img/js.png)
 
